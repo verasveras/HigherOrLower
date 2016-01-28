@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lisa\Desktop\HigherOrLower\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Lisa\Desktop\HigherOrLower\app\build\intermediates\pre-dexed\debug\classes-445e21c24c0a17634301559e4b91e242ef1f0772.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lisa\Desktop\HigherOrLower\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Lisa\Desktop\HigherOrLower\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-3bc6936cae859d7d329007a05a68db1e9d5d6075.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lisa\Desktop\HigherOrLower\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Lisa\Desktop\HigherOrLower\app\build\intermediates\pre-dexed\debug\classes-f5f85c5fc4b330f549d173494ffb9421f148bee3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lisa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Lisa\Desktop\HigherOrLower\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-0912a232c15bbe5a5a9b4ea586f2819cfb013fbb.jar" />
+    </item>
+
+</items>
